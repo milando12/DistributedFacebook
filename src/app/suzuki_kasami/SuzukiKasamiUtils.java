@@ -76,7 +76,6 @@ public class SuzukiKasamiUtils {
         usingToken.set(true);
 
         AppConfig.timestampedStandardPrint("Got token");
-
     }
 
     public void unlock(){
