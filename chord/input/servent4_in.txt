@@ -1,0 +1,8 @@
+pause 5000
+add_file file4.txt public
+pause 4000
+view_file file4.txt
+delete_file file4.txt
+pause 6000
+pause 10000
+stop

@@ -1,0 +1,30 @@
+
+09:37:02 - Bootstrap server started on port: 2000
+
+09:37:04 - Adding first node: 1200
+
+09:37:04 - Released sync: first node
+09:37:05 - Sending message to 1400: 1200_|1200|
+
+
+09:37:05 - Adding: 1400
+
+09:37:05 - Released sync: 1400
+09:37:05 - Sending message to 1100: 1400_|1200,1400|
+
+
+09:37:06 - Adding: 1100
+
+09:37:06 - Released sync: 1100
+09:37:06 - Sending message to 1600: 1400_|1200,1400,1100|
+
+
+09:37:07 - Adding: 1600
+
+09:37:07 - Released sync: 1600
+09:37:07 - Sending message to 1300: 1100_|1200,1400,1100,1600|
+
+
+09:37:07 - Adding: 1300
+
+09:37:07 - Released sync: 1300
